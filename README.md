@@ -1,6 +1,7 @@
 # cse210-ww-student-template
 James
 ---
+HW, Projects
 
 for students in the worldwide content version of CSE 210.
 
